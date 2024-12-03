@@ -1,5 +1,7 @@
 # Azure_OCR
 
+streamlit App- https://interactive-ocr-application-for-image-to-text-conversion.streamlit.app/
+
 ## Interactive OCR Application for Image-to-Text Conversion
 **Description:**
 - Developed a web-based application using **Streamlit** to extract text from images leveraging **Azure Computer Vision OCR API**. The application enables users to upload images, processes them in real-time, and retrieves textual content with high accuracy. The tool is particularly effective for digitizing Aadhaar cards and general documents, showcasing seamless integration with Azure cloud services.
