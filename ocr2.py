@@ -6,8 +6,10 @@ from PIL import Image
 
 # Azure credentials
 region = "eastus"
-key = '4cCi4ze3ihXME7tPIgmsBOTEzpol6qy3144Wn64RGXWNZvCdGTAFJQQJ99ALACYeBjFXJ3w3AAAFACOG4xiX'
-endpoint = "https://computer-vis-app.cognitiveservices.azure.com/"
+#key = '4cCi4ze3ihXME7tPIgmsBOTEzpol6qy3144Wn64RGXWNZvCdGTAFJQQJ99ALACYeBjFXJ3w3AAAFACOG4xiX'
+key = '123ituiytui'
+#endpoint = "https://computer-vis-app.cognitiveservices.azure.com/"
+endpoint = 'url'
 
 # Initialize client
 credentials = CognitiveServicesCredentials(key)
