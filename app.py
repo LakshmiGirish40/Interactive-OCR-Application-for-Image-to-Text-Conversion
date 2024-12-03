@@ -7,10 +7,8 @@ from PIL import Image
 
 # Azure credentials
 region = "eastus"
-#key = 'FxjCyxtUo2lJBvkS8h7CcMwMMeGipahnOVgTtyPiJCyjPw5LYu3dJQQJ99ALACYeBjFXJ3w3AAAFACOGzQZV'
-key='Azure Authentication key'
-#endpoint = "https://compt-vision.cognitiveservices.azure.com/"
-#endpoint = 'Azure_url'
+key = 'FxjCyxtUo2lJBvkS8h7CcMwMMeGipahnOVgTtyPiJCyjPw5LYu3dJQQJ99ALACYeBjFXJ3w3AAAFACOGzQZV'
+endpoint = "https://compt-vision.cognitiveservices.azure.com/"
 
 # Initialize Computer Vision client
 credentials = CognitiveServicesCredentials(key)
