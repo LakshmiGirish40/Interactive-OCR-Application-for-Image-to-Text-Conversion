@@ -1,0 +1,5 @@
+
+streamlit==1.25.0
+azure-cognitiveservices-vision-computervision==0.7.0
+msrest==0.7.1
+Pillow==10.0.1
