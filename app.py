@@ -15,7 +15,7 @@ credentials = CognitiveServicesCredentials(key)
 client = ComputerVisionClient(endpoint, credentials)
 
 # Streamlit app title
-st.title("Azure OCR with Streamlit")
+st.title("Interactive OCR Application for Image-to-Text Conversion")
 
 def process_image(file):
     try:
