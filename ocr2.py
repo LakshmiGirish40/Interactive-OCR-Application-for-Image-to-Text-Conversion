@@ -6,7 +6,7 @@ from PIL import Image
 
 # Azure credentials
 region = "eastus"
-key = '4cCi4ze3ihXME7tPIgmsBOTEzpol6qy3144Wn64RGXWNZvCdGTAFJQQJ99ALACYeBjFXJ3w3AAAFACOG4xiX'
+key = 'Enter your Azure API Key'
 endpoint = "https://computer-vis-app.cognitiveservices.azure.com/"
 
 # Initialize client
